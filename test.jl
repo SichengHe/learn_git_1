@@ -12,4 +12,8 @@ function add(x, y)
     return x + y
 end
 
+function product(x, y)
+    return x * y
+end
+
 @test x_sqr(2) == 4
