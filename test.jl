@@ -4,6 +4,10 @@ function x_sqr(x)
     return x^2
 end
 
+function cube(x)
+	return x^3
+end
+
 function subtract(x, y)
     return x - y
 end
