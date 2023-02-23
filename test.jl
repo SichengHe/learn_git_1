@@ -6,6 +6,8 @@ end
 
 function subtract(x, y)
     return x - y
+end
+
 function add(x, y)
     return x + y
 end
